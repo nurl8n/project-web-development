@@ -1,0 +1,11 @@
+<fieldset class="lol">
+  <input type="text" [(ngModel)]="currentFact.title" class="yyy">
+  <button (click)="addFact()" class="xxx">Add Fact</button>
+</fieldset>
+
+<ul class="lolkekcheburek">
+  <li *ngFor="let fact of newFacts">
+    <p>{{fact.id}}) {{fact.title}}</p>
+    <button (click)="removeFact(fact.id)" class="bbbtttnnn">Remove</button>
+  </li>
+</ul>

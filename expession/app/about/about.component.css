@@ -1,0 +1,27 @@
+.hello {
+  color: red;
+  border: 1px solid red;
+  position: relative;
+  top: 20px;
+  padding-left: 18px;
+  width: 600px;
+  font-weight:700;
+}
+
+.lol {
+  position: relative;
+  top:50px;
+  left:50px;
+}
+
+.xax {
+  position: relative;
+  top:80px;
+  font-family: Chilanka;
+  font-weight:700;
+}
+
+.kbtu {
+  position: relative;
+  left:350px;
+}

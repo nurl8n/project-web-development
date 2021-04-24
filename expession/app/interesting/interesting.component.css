@@ -1,0 +1,38 @@
+.lol {
+  width:1000px;
+  height:40px;
+  padding-top:20px;
+  position:relative;
+  top:20px;
+  left:20px;
+  background: mediumspringgreen;
+}
+
+.xxx {
+  position: relative;
+  left:50px;
+  width:100px;
+  height:30px;
+  font-family: cursive;
+  font-size:1.1em;
+}
+
+.yyy {
+  height:20px;
+  width:800px;
+}
+
+.lolkekcheburek {
+  position: relative;
+  top:45px;
+}
+
+.bbbtttnnn {
+  width:100px;
+  height:30px;
+  font-family:cursive;
+  font-size:1.1em;
+  background-color: #420905;
+  font-weight:700;
+  color: aqua;
+}

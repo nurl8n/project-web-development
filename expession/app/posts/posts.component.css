@@ -1,0 +1,37 @@
+.lol {
+  position:relative;
+  left:50px;
+  width:100px;
+  color: blue;
+  font-size:0.95em;
+  border:2px solid blue;
+  font-weight:700;
+}
+
+.del {
+  position:relative;
+  left:50px;
+  width:70px;
+  color: red;
+  font-size:0.95em;
+  border:2px solid red;
+  font-weight:700;
+}
+
+.inp {
+  width:600px;
+}
+
+.ppp {
+  padding-top:10px;
+}
+
+.fff {
+  height:24px;
+  padding-top:10px;
+}
+
+.txtt {
+  font-family: Arial;
+
+}

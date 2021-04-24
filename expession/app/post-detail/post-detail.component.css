@@ -1,0 +1,21 @@
+.inp {
+  width: 600px;
+}
+
+.butt {
+  width:100px;
+  color: green;
+  font-size:0.95em;
+  border:2px solid green;
+  font-weight:700;
+}
+
+.butt2 {
+  width: 100px;
+  position:relative;
+  left:50px;
+  color: grey;
+  font-size:0.95em;
+  border:2px solid grey;
+  font-weight:700;
+}

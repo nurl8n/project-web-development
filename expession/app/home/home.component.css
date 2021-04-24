@@ -1,0 +1,43 @@
+.xd {
+  font-family: Rachana;
+  font-size:1.5em;
+  border: 2px solid grey;
+  position: relative;
+  left:318px;
+  top:20px;
+  width:450px;
+  font-weight: 700;
+  padding-left:20px;
+  height:165px;
+  background-color: antiquewhite;
+}
+
+.xax {
+  border: 2px solid grey;
+  position:relative;
+  top:50px;
+  left:300px;
+  padding-left: 10px;
+  width:500px;
+  font-family: Sawasdee;
+  font-weight:700;
+  background-color: gainsboro;
+
+}
+
+.loool {
+  position: relative;
+  top:80px;
+  border: 2px solid darkgoldenrod;
+  left:20px;
+  width:1040px;
+  padding-left:15px;
+  font-family: Arial;
+  background-color: aquamarine;
+
+}
+
+.eee {
+  position: relative;
+  left:450px;
+}

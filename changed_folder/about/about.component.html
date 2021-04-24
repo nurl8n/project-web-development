@@ -1,0 +1,29 @@
+<div class="hello">
+  <p>Hello, we are students from KBTU. This is our project on Web-Development Subject. </p>
+</div>
+
+<div class="lol">
+  <img src="https://lh3.googleusercontent.com/proxy/YecAPV3XJTe2JNQhkVIGvnZ1It9rrqh9XnhP9nbg-e8LbmWqV0xIAob4agwKL_Qgag6UId9T4eQxZTIh1q-v-kZNzpn2QYCgIS_MoH-sdxVJpLPW">
+</div>
+
+<div class="xax">
+  <p>Our team: Nurlan, Amira, Galym. For more information visit: </p>
+  <form class="kbtu">
+    <button id="but1" type="entry" onclick="kbtu.kz">KBTU</button>
+  </form>
+</div>
+
+<div>
+  <fieldset class="lll">
+    <input type="text" [(ngModel)]="currentComment.title" class="kkk2">
+    <button (click)="addComment()" class="kkk">Rate APP</button>
+  </fieldset>
+
+</div>
+
+<ul class="ok">
+  <li *ngFor="let comment of newComments">
+    <p>{{comment.id}}) {{comment.title}}</p>
+    <button (click)="removeComment(comment.id)" class="bbbtttnnn">Remove</button>
+  </li>
+</ul>

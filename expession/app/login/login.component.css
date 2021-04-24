@@ -1,0 +1,64 @@
+#ssylka {
+  font-size:0.80em;
+  padding-left:106px;
+  padding-bottom:10px;
+  top:50px;
+  position:relative;
+
+}
+
+#korobka {
+  position: absolute;
+  border: 1px solid white;
+  background-color: white;
+  top: 20%;
+  left: 40%;
+  height: 230px;
+  width: 332px;
+  border-radius: 1px;
+  padding: 45px;
+  border: 1px solid #ddd;
+}
+
+#but1 {
+  background-color: green;
+  color:white;
+  width:100px;
+  border:none;
+  border-radius:6px;
+  line-height:47px;
+  width:331px;
+  margin-top:5px;
+  font-family: Helvetica;
+  font-weight:600;
+  font-size:1em;
+  margin-bottom:4px;
+  position:relative;
+  top:30px;
+}
+
+#but2 {
+  background-color: salmon;
+  color:white;
+  width:140px;
+  margin-left:97px;
+  line-height:40px;
+  margin-top:5px;
+  font-family:Helvetica;
+  font-size: 0.55em;
+  font-weight:bold;
+  border:none;
+  border-radius:6px;
+  position:relative;
+  top:50px;
+}
+
+.xxxxx {
+  width:323px;
+  position:relative;
+  top:15px;
+}
+
+.yyyyy {
+  width:323px;
+}

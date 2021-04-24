@@ -1,0 +1,65 @@
+.hello {
+  color: red;
+  border: 1px solid red;
+  position: relative;
+  top: 20px;
+  padding-left: 18px;
+  width: 600px;
+  font-weight:700;
+}
+
+.lol {
+  position: relative;
+  top:50px;
+  left:50px;
+}
+
+.xax {
+  position: relative;
+  top:80px;
+  font-family: Chilanka;
+  font-weight:700;
+}
+
+.kbtu {
+  position: relative;
+  left:350px;
+}
+
+.lll {
+  position:relative;
+  top:120px;
+}
+
+.ok {
+  position:relative;
+  top:150px;
+}
+
+.kkk {
+  margin-left:50px;
+  margin-top:13px;
+  border: 2px solid blue;
+  background-color: chartreuse;
+  width:100px;
+  height: 30px;
+  font-family: cursive;
+  font-weight: 700;
+  font-size:1em;
+}
+.kkk2 {
+  margin-left: 50px;
+  margin-top: 13px;
+}
+.lll {
+  height:50px;
+}
+.bbbtttnnn {
+  width:100px;
+  height:30px;
+  font-family:cursive;
+  font-size:1.1em;
+  background-color: black;
+  font-weight:700;
+  color: orangered;
+}
